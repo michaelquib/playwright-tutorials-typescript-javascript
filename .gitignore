@@ -5,3 +5,7 @@ node_modules/
 /allure-report/
 /allure-results/
 .vscode/
+
+# Playwright
+/playwright/.cache/
+/playwright/.auth/
